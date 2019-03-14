@@ -1,7 +1,7 @@
 # A-Star-Sokoban
-**MET CS 664 Project 1 By Chen Yifan** 
+**MET CS 664 Project 1 By Chen Yifan**
 
-**Used A* to solve sokoban problems** 
+Used A* to solve sokoban problems
 
 Problem suite is named by Microban100.txt
 
